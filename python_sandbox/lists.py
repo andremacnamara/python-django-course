@@ -47,6 +47,3 @@ print(fruits)
 print('Sorting list in Reverse')
 fruits.sort(reverse=True)
 print(fruits)
-
-
-# Reverse using for loop
